@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/4015406/140642885-cc3f9a8c-d662-48db-ac12-db00dfb9e89b.png)
 
+https://jetstream.laravel.com/2.x/introduction.html
 
 # ScreenCast
 
